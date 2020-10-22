@@ -138,7 +138,6 @@ namespace PTest1022 {
 
 
 
-
             /*** ●●●●● ここまで ●●●●● ***/
 
             Console.WriteLine($"平均値は{avg:0.0}です");
